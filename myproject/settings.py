@@ -25,7 +25,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "mainapp",  # наше приложение с моделями Task / SubTask / Category
+    "mainapp",
 ]
 
 MIDDLEWARE = [
